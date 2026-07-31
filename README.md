@@ -29,7 +29,7 @@ This project was built by **Chidiebere David Ogbonna**.
 
 Here are his details:
 
-![Author](Images/Author.jpg)
+![Author](Images/Author.jpeg)
 
 | Detail | Link |
 | ------ | ---- |
