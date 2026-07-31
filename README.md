@@ -33,7 +33,7 @@ Here are his details:
 
 | Detail | Link |
 | ------ | ---- |
-| Email | eberedavid326@gmail.com |
+| Email | chidieberedavid326@gmail.com |
 | LinkedIn | [chidieberedavidogbonna](https://www.linkedin.com/in/chidieberedavidogbonna/) |
 | GitHub | [iameberedavid](https://github.com/iameberedavid) |
 | Medium | [eberedavid](https://eberedavid.medium.com) |
@@ -53,4 +53,4 @@ Thanks for taking the time to go through this Readme.md file and reviewing this 
 
 ## Contact
 
-Feel free to send your reviews, suggestions, questions and collaboration requests to eberedavid326@gmail.com
+Feel free to send your reviews, suggestions, questions and collaboration requests to chidieberedavid326@gmail.com
